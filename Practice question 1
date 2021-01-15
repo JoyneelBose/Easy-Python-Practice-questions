@@ -1,4 +1,5 @@
 # practice1.py
+"Question- Given a binary array, find the maximum number of consecutive 1's in this array."
 l=[1,1,0,1,1,1,1,0]
 c=0
 maxi=0
